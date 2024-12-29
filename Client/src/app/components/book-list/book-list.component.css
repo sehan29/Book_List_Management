@@ -1,0 +1,59 @@
+.registed-books{
+
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+}
+.table-components{
+
+    width: 80%;
+    margin: 20px auto;
+    border: 1px solid #ddd;
+    border-radius: 2px;
+    background-color: #ffffff;
+    padding: 20px;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid rgb(105, 105, 105);
+    padding: 20px;
+}
+
+th, td {
+    border: 1px solid rgb(194, 194, 194);
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+.btn-edit {
+    background-color: #0d6efd;
+    margin-right: 10px;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .btn-edit:hover {
+    background-color: #002a6a;
+  }
+  
+  .btn-delete {
+    background-color: #dc3545; 
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .btn-delete:hover {
+    background-color: #bb2d3b;
+  }
+  
