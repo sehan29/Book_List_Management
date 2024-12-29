@@ -14,7 +14,7 @@ namespace Api.Controllers
             new Book { Id = 3, Title = "1984", Author = "George Orwell", ISBN = "9780451524935", PublicationDate = new DateTime(1949, 6, 8) }
         };
 
-        private static int CurrentId = 4; // Start the ID counter after the default values
+        private static int CurrentId = 4; 
 
 
         [HttpGet]

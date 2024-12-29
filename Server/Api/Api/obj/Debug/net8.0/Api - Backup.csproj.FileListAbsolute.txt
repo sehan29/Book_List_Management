@@ -1,0 +1,33 @@
+D:\BICT\Book-List\Book_List_Management\Server\Api\Api\bin\Debug\net8.0\appsettings.Development.json
+D:\BICT\Book-List\Book_List_Management\Server\Api\Api\bin\Debug\net8.0\appsettings.json
+D:\BICT\Book-List\Book_List_Management\Server\Api\Api\bin\Debug\net8.0\Api - Backup.exe
+D:\BICT\Book-List\Book_List_Management\Server\Api\Api\bin\Debug\net8.0\Api - Backup.deps.json
+D:\BICT\Book-List\Book_List_Management\Server\Api\Api\bin\Debug\net8.0\Api - Backup.runtimeconfig.json
+D:\BICT\Book-List\Book_List_Management\Server\Api\Api\bin\Debug\net8.0\Api - Backup.dll
+D:\BICT\Book-List\Book_List_Management\Server\Api\Api\bin\Debug\net8.0\Api - Backup.pdb
+D:\BICT\Book-List\Book_List_Management\Server\Api\Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\BICT\Book-List\Book_List_Management\Server\Api\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\BICT\Book-List\Book_List_Management\Server\Api\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\BICT\Book-List\Book_List_Management\Server\Api\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\BICT\Book-List\Book_List_Management\Server\Api\Api\obj\Debug\net8.0\Api - Backup.csproj.AssemblyReference.cache
+D:\BICT\Book-List\Book_List_Management\Server\Api\Api\obj\Debug\net8.0\Api - Backup.GeneratedMSBuildEditorConfig.editorconfig
+D:\BICT\Book-List\Book_List_Management\Server\Api\Api\obj\Debug\net8.0\Api - Backup.AssemblyInfoInputs.cache
+D:\BICT\Book-List\Book_List_Management\Server\Api\Api\obj\Debug\net8.0\Api - Backup.AssemblyInfo.cs
+D:\BICT\Book-List\Book_List_Management\Server\Api\Api\obj\Debug\net8.0\Api - Backup.csproj.CoreCompileInputs.cache
+D:\BICT\Book-List\Book_List_Management\Server\Api\Api\obj\Debug\net8.0\Api - Backup.MvcApplicationPartsAssemblyInfo.cs
+D:\BICT\Book-List\Book_List_Management\Server\Api\Api\obj\Debug\net8.0\Api - Backup.MvcApplicationPartsAssemblyInfo.cache
+D:\BICT\Book-List\Book_List_Management\Server\Api\Api\obj\Debug\net8.0\Api - Backup.sourcelink.json
+D:\BICT\Book-List\Book_List_Management\Server\Api\Api\obj\Debug\net8.0\staticwebassets.build.json
+D:\BICT\Book-List\Book_List_Management\Server\Api\Api\obj\Debug\net8.0\staticwebassets.development.json
+D:\BICT\Book-List\Book_List_Management\Server\Api\Api\obj\Debug\net8.0\staticwebassets\msbuild.Api - Backup.Microsoft.AspNetCore.StaticWebAssets.props
+D:\BICT\Book-List\Book_List_Management\Server\Api\Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Api - Backup.props
+D:\BICT\Book-List\Book_List_Management\Server\Api\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Api - Backup.props
+D:\BICT\Book-List\Book_List_Management\Server\Api\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Api - Backup.props
+D:\BICT\Book-List\Book_List_Management\Server\Api\Api\obj\Debug\net8.0\staticwebassets.pack.json
+D:\BICT\Book-List\Book_List_Management\Server\Api\Api\obj\Debug\net8.0\scopedcss\bundle\Api - Backup.styles.css
+D:\BICT\Book-List\Book_List_Management\Server\Api\Api\obj\Debug\net8.0\Api - Ba.06B9AA56.Up2Date
+D:\BICT\Book-List\Book_List_Management\Server\Api\Api\obj\Debug\net8.0\Api - Backup.dll
+D:\BICT\Book-List\Book_List_Management\Server\Api\Api\obj\Debug\net8.0\refint\Api - Backup.dll
+D:\BICT\Book-List\Book_List_Management\Server\Api\Api\obj\Debug\net8.0\Api - Backup.pdb
+D:\BICT\Book-List\Book_List_Management\Server\Api\Api\obj\Debug\net8.0\Api - Backup.genruntimeconfig.cache
+D:\BICT\Book-List\Book_List_Management\Server\Api\Api\obj\Debug\net8.0\ref\Api - Backup.dll

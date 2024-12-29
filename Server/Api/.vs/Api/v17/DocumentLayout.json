@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\.Net\\Api\\",
+  "WorkspaceRootPath": "D:\\BICT\\Book-List\\Book_List_Management\\Server\\Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EE67ED18-2F78-4DC8-A1B1-59DCA4B9511B}|Api\\Api.csproj|d:\\.net\\api\\api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE67ED18-2F78-4DC8-A1B1-59DCA4B9511B}|Api\\Api.csproj|solutionrelative:api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BICT\\Book-List\\Book_List_Management\\Server\\Api\\Api\\Controllers\\BookController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Api\\Controllers\\BookController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE67ED18-2F78-4DC8-A1B1-59DCA4B9511B}|Api\\Api.csproj|d:\\.net\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE67ED18-2F78-4DC8-A1B1-59DCA4B9511B}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BICT\\Book-List\\Book_List_Management\\Server\\Api\\Api\\Api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Api\\Api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE67ED18-2F78-4DC8-A1B1-59DCA4B9511B}|Api\\Api.csproj|d:\\.net\\api\\api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{EE67ED18-2F78-4DC8-A1B1-59DCA4B9511B}|Api\\Api.csproj|solutionrelative:api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BICT\\Book-List\\Book_List_Management\\Server\\Api\\Api\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Api\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE67ED18-2F78-4DC8-A1B1-59DCA4B9511B}|Api\\Api.csproj|d:\\.net\\api\\api\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE67ED18-2F78-4DC8-A1B1-59DCA4B9511B}|Api\\Api.csproj|solutionrelative:api\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BICT\\Book-List\\Book_List_Management\\Server\\Api\\Api\\Models\\Book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Api\\Models\\Book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +30,11 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Api.http",
-              "DocumentMoniker": "D:\\.Net\\Api\\Api\\Api.http",
+              "DocumentMoniker": "D:\\BICT\\Book-List\\Book_List_Management\\Server\\Api\\Api\\Api.http",
               "RelativeDocumentMoniker": "Api\\Api.http",
-              "ToolTip": "D:\\.Net\\Api\\Api\\Api.http",
+              "ToolTip": "D:\\BICT\\Book-List\\Book_List_Management\\Server\\Api\\Api\\Api.http",
               "RelativeToolTip": "Api\\Api.http",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
@@ -43,24 +43,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\.Net\\Api\\Api\\Program.cs",
+              "DocumentMoniker": "D:\\BICT\\Book-List\\Book_List_Management\\Server\\Api\\Api\\Program.cs",
               "RelativeDocumentMoniker": "Api\\Program.cs",
-              "ToolTip": "D:\\.Net\\Api\\Api\\Program.cs",
+              "ToolTip": "D:\\BICT\\Book-List\\Book_List_Management\\Server\\Api\\Api\\Program.cs",
               "RelativeToolTip": "Api\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T18:01:20.419Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T18:01:20.419Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "BookController.cs",
-              "DocumentMoniker": "D:\\.Net\\Api\\Api\\Controllers\\BookController.cs",
+              "DocumentMoniker": "D:\\BICT\\Book-List\\Book_List_Management\\Server\\Api\\Api\\Controllers\\BookController.cs",
               "RelativeDocumentMoniker": "Api\\Controllers\\BookController.cs",
-              "ToolTip": "D:\\.Net\\Api\\Api\\Controllers\\BookController.cs",
+              "ToolTip": "D:\\BICT\\Book-List\\Book_List_Management\\Server\\Api\\Api\\Controllers\\BookController.cs",
               "RelativeToolTip": "Api\\Controllers\\BookController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -71,9 +70,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Book.cs",
-              "DocumentMoniker": "D:\\.Net\\Api\\Api\\Models\\Book.cs",
+              "DocumentMoniker": "D:\\BICT\\Book-List\\Book_List_Management\\Server\\Api\\Api\\Models\\Book.cs",
               "RelativeDocumentMoniker": "Api\\Models\\Book.cs",
-              "ToolTip": "D:\\.Net\\Api\\Api\\Models\\Book.cs",
+              "ToolTip": "D:\\BICT\\Book-List\\Book_List_Management\\Server\\Api\\Api\\Models\\Book.cs",
               "RelativeToolTip": "Api\\Models\\Book.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
