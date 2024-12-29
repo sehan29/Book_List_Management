@@ -1,0 +1,86 @@
+.app-title{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    background-color: #0157b3;
+    color: #ffffff;
+    margin-top: -23px;
+    margin-left: -10px;
+    margin-right: -5px;
+}
+
+.book-form{
+
+    text-align: center;
+    font-size: 26px;
+    font-weight: bold;
+}
+.card {
+
+    width: 80%;
+    margin: 20px auto;
+    border: 1px solid #ddd;
+    border-radius: 2px;
+    background-color: #ffffff;
+    padding: 20px;
+  }
+  
+  .card .mb-3 {
+    margin-bottom: 15px;
+  }
+  
+  .card label {
+    font-weight: 600;
+    color: #333;
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .card input {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 8px;
+    font-size: 14px;
+    width: 98%;
+    transition: border-color 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+  }
+  
+  .card input:focus {
+    border-color: #007bff;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+    outline: none;
+  }
+  
+  .card .btn {
+    font-size: 16px;
+    padding: 10px 15px;
+    font-weight: bold;
+    width: 100%;
+    border-radius: 5px;
+    background-color: #0056b3;
+    color: #ffffff;
+    transition: background-color 0.3s ease-in-out, transform 0.2s ease-in-out;
+    cursor: pointer;
+  }
+  
+  .card .btn:hover {
+    background-color: #419cfd;
+    transform: translateY(-2px);
+  }
+  
+  .card input:hover {
+    border-color: #007bff;
+  }
+  
+  @media (max-width: 768px) {
+    .card {
+      padding: 10px;
+    }
+  
+    .card .btn {
+      font-size: 14px;
+    }
+  }
+  
