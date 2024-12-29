@@ -1,0 +1,10 @@
+<div>
+  <div class="row">
+    <div class="col-md-4">
+      <app-book-form [book]="selectedBook || {}" (save)="onSave($event)"></app-book-form>
+    </div>
+    <div class="col-md-8">
+      <app-book-list [books]="books" (edit)="onEdit($event)" (delete)="onDelete($event)" ></app-book-list>
+    </div>
+  </div>
+</div>
