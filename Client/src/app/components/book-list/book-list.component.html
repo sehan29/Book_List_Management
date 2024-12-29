@@ -1,0 +1,33 @@
+<div class="registed-books">
+  <p>Registered Book Details</p>
+</div>
+
+
+<div class="table-components">
+  <table class="table">
+    <thead class="table-dark">
+      <tr class="ss">
+        <th>Title</th>
+        <th>Author</th>
+        <th>ISBN</th>
+        <th>Publication Date</th>
+        <th>Actions</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let book of books">
+        <td>{{ book.title }}</td>
+        <td>{{ book.author }}</td>
+        <td>{{ book.isbn }}</td>
+        <td>{{ book.publicationDate | date:'yyyy-MMM-dd' }}</td>
+        <td>
+          <button class="btn-edit" (click)="edit.emit(book)">  <i class="fas fa-edit"></i> Edit</button>
+          <button class="btn-delete" (click)="confirmDelete(book.id)">  <i class="fas fa-trash-alt"></i> Delete</button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
+  

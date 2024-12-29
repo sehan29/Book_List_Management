@@ -16,6 +16,7 @@ namespace Api.Controllers
 
         private static int CurrentId = 4; // Start the ID counter after the default values
 
+
         [HttpGet]
         public IActionResult GetBooks()
         {
